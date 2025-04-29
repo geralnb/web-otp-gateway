@@ -1,0 +1,143 @@
+CRITICAL - 2024-01-19 18:04:33 --> Invalid argument supplied for foreach()
+in APPPATH/Views/admin/services.php on line 60.
+ 1 APPPATH/Views/admin/services.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argument supplied for foreach()', '/home/mentari3/jasaotp.xosgames.com/app/Views/admin/services.php', 60, [...])
+ 2 SYSTEMPATH/View/View.php(228): include('/home/mentari3/jasaotp.xosgames.com/app/Views/admin/services.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1190): CodeIgniter\View\View->render('admin/services', [], true)
+ 5 APPPATH/Controllers/Admin/Services.php(54): view('admin/services', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Admin\Services->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Services))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-19 18:11:44 --> Invalid argument supplied for foreach()
+in APPPATH/Views/admin/services.php on line 60.
+ 1 APPPATH/Views/admin/services.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argument supplied for foreach()', '/home/mentari3/jasaotp.xosgames.com/app/Views/admin/services.php', 60, [...])
+ 2 SYSTEMPATH/View/View.php(228): include('/home/mentari3/jasaotp.xosgames.com/app/Views/admin/services.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1190): CodeIgniter\View\View->render('admin/services', [], true)
+ 5 APPPATH/Controllers/Admin/Services.php(55): view('admin/services', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Admin\Services->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Services))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-19 18:37:24 --> Invalid argument supplied for foreach()
+in APPPATH/Views/admin/services.php on line 60.
+ 1 APPPATH/Views/admin/services.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argument supplied for foreach()', '/home/mentari3/jasaotp.xosgames.com/app/Views/admin/services.php', 60, [...])
+ 2 SYSTEMPATH/View/View.php(228): include('/home/mentari3/jasaotp.xosgames.com/app/Views/admin/services.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1190): CodeIgniter\View\View->render('admin/services', [], true)
+ 5 APPPATH/Controllers/Admin/Services.php(51): view('admin/services', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Admin\Services->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Services))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-19 21:55:12 --> The action you requested is not allowed.
+in SYSTEMPATH/Security/Security.php on line 300.
+ 1 SYSTEMPATH/Security/Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH/Filters/CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH/Filters/Filters.php(186): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH/CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('admin/get-data-services', 'before')
+ 5 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-19 21:55:21 --> The action you requested is not allowed.
+in SYSTEMPATH/Security/Security.php on line 300.
+ 1 SYSTEMPATH/Security/Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH/Filters/CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH/Filters/Filters.php(186): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH/CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('admin/get-data-services', 'before')
+ 5 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-19 22:00:30 --> The action you requested is not allowed.
+in SYSTEMPATH/Security/Security.php on line 300.
+ 1 SYSTEMPATH/Security/Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH/Filters/CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH/Filters/Filters.php(186): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH/CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('admin/services/delete/hw', 'before')
+ 5 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-19 22:03:24 --> The action you requested is not allowed.
+in SYSTEMPATH/Security/Security.php on line 300.
+ 1 SYSTEMPATH/Security/Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH/Filters/CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH/Filters/Filters.php(186): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH/CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('admin/get-data-services', 'before')
+ 5 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-19 22:05:13 --> The action you requested is not allowed.
+in SYSTEMPATH/Security/Security.php on line 300.
+ 1 SYSTEMPATH/Security/Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH/Filters/CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH/Filters/Filters.php(186): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH/CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('admin/get-data-services', 'before')
+ 5 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-19 22:07:42 --> The action you requested is not allowed.
+in SYSTEMPATH/Security/Security.php on line 300.
+ 1 SYSTEMPATH/Security/Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH/Filters/CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH/Filters/Filters.php(186): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH/CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('admin/get-data-services', 'before')
+ 5 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-19 22:13:51 --> The action you requested is not allowed.
+in SYSTEMPATH/Security/Security.php on line 300.
+ 1 SYSTEMPATH/Security/Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH/Filters/CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH/Filters/Filters.php(186): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH/CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('admin/get-data-services', 'before')
+ 5 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-19 22:14:42 --> The action you requested is not allowed.
+in SYSTEMPATH/Security/Security.php on line 300.
+ 1 SYSTEMPATH/Security/Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH/Filters/CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH/Filters/Filters.php(186): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH/CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('admin/get-data-services', 'before')
+ 5 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-19 22:16:31 --> The action you requested is not allowed.
+in SYSTEMPATH/Security/Security.php on line 300.
+ 1 SYSTEMPATH/Security/Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH/Filters/CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH/Filters/Filters.php(186): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH/CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('admin/get-data-services', 'before')
+ 5 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-19 22:19:34 --> The action you requested is not allowed.
+in SYSTEMPATH/Security/Security.php on line 300.
+ 1 SYSTEMPATH/Security/Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH/Filters/CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH/Filters/Filters.php(186): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH/CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('admin/get-data-services', 'before')
+ 5 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-19 23:51:56 --> Call to undefined method App\Controllers\Otpweb\Orders::fail()
+in APPPATH/Controllers/Otpweb/Orders.php on line 114.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Orders->getServicesByCountry('6')
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otpweb\Orders))
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-19 23:52:36 --> Call to undefined method App\Controllers\Otpweb\Orders::fail()
+in APPPATH/Controllers/Otpweb/Orders.php on line 114.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Orders->getServicesByCountry('7')
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otpweb\Orders))
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-19 23:52:39 --> Call to undefined method App\Controllers\Otpweb\Orders::fail()
+in APPPATH/Controllers/Otpweb/Orders.php on line 114.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Orders->getServicesByCountry('6')
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otpweb\Orders))
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-19 23:53:33 --> Call to undefined method App\Controllers\Otpweb\Orders::fail()
+in APPPATH/Controllers/Otpweb/Orders.php on line 114.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Orders->getServicesByCountry('6')
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otpweb\Orders))
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-19 23:53:36 --> Call to undefined method App\Controllers\Otpweb\Orders::fail()
+in APPPATH/Controllers/Otpweb/Orders.php on line 114.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Orders->getServicesByCountry('7')
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otpweb\Orders))
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,6 @@
+CRITICAL - 2024-01-16 01:02:15 --> Call to undefined method App\Controllers\Otpweb\Orders::fail()
+in APPPATH/Controllers/Otpweb/Orders.php on line 114.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Orders->getServicesByCountry('24')
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otpweb\Orders))
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()

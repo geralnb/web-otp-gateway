@@ -1,0 +1,1136 @@
+CRITICAL - 2024-03-25 16:41:25 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:41:29 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:41:34 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:41:44 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:41:49 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:41:59 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:42:04 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:42:14 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:42:18 --> Call to undefined method App\Controllers\Otpweb\Orders::fail()
+in APPPATH/Controllers/Otpweb/Orders.php on line 114.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Orders->getServicesByCountry()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:42:19 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:42:30 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:42:34 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:42:39 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:42:50 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:42:54 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:42:59 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:43:10 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:43:14 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:43:15 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Orders.php on line 219.
+ 1 APPPATH/Controllers/Otpweb/Orders.php(219): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Orders->placeOrder()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:43:38 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:43:43 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:43:54 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:43:58 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:44:03 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:44:14 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:44:18 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:44:23 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:44:34 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:44:42 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:45:10 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:45:14 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:45:19 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-03-25 16:45:27 --> mysqli_sql_exception: MySQL server has gone away in /home/mentari3/jasaotp.xosgames.com/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/mentari3/jasaotp.xosgames.com/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/mentari3/jasaotp.xosgames.com/system/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/mentari3/jasaotp.xosgames.com/system/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/mentari3/jasaotp.xosgames.com/system/Database/BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query()
+#4 /home/mentari3/jasaotp.xosgames.com/system/Session/Handlers/DatabaseHandler.php(219): CodeIgniter\Database\BaseBuilder->update()
+#5 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->write()
+#6 [internal function]: session_write_close()
+#7 {main}
+CRITICAL - 2024-03-25 16:45:37 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:45:38 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:45:43 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:45:54 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:45:58 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:46:03 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:46:14 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:46:18 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:46:23 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:46:34 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:46:38 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:46:43 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:46:57 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Orders.php on line 219.
+ 1 APPPATH/Controllers/Otpweb/Orders.php(219): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Orders->placeOrder()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:46:57 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:59:06 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:59:07 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:59:12 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:59:23 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:59:27 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:59:32 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:59:43 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:59:47 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 16:59:52 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:00:05 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:00:07 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:00:12 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:00:23 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:00:27 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:00:32 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:00:57 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:01:54 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:01:55 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:02:08 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:02:09 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:02:14 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:02:24 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:02:24 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:02:29 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:02:38 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:02:39 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:02:44 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:02:53 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:02:54 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:02:59 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:03:57 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:04:57 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:05:57 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:05:58 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:06:00 --> Undefined variable $ch
+in APPPATH/Controllers/Otpweb/Orders.php on line 291.
+ 1 APPPATH/Controllers/Otpweb/Orders.php(291): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Orders->changeStatusCancel()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:07:07 --> Undefined variable $ch
+in APPPATH/Controllers/Otpweb/Orders.php on line 291.
+ 1 APPPATH/Controllers/Otpweb/Orders.php(291): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Orders->changeStatusCancel()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:07:13 --> Undefined variable $ch
+in APPPATH/Controllers/Otpweb/Orders.php on line 291.
+ 1 APPPATH/Controllers/Otpweb/Orders.php(291): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Orders->changeStatusCancel()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:07:25 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:07:26 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:07:31 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:07:42 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:07:46 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:07:51 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:08:02 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:08:18 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:08:19 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:08:24 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:08:33 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:08:34 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:08:39 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:08:48 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:08:49 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:08:54 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:09:04 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:09:04 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:09:09 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:09:57 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:11:23 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:12:23 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:35:05 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:35:05 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:35:10 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:35:20 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:35:25 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:35:34 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:35:35 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:35:40 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:35:50 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:35:55 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:36:05 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:37:05 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:38:06 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:39:07 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:44:04 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:44:14 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:44:23 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:44:24 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:44:29 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:44:38 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:44:39 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:44:44 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:44:53 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:44:54 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:44:59 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:45:08 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:45:09 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:46:35 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:46:52 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:46:52 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:46:56 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:47:01 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:47:11 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:47:12 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:47:16 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:47:25 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:47:26 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:47:31 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:47:41 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:47:41 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:47:46 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:48:16 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:48:25 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:48:34 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:48:35 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:48:40 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:48:50 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:48:51 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:48:55 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:49:00 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:49:10 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:49:10 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:49:15 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:49:24 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:49:31 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-25 17:49:38 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Otpweb/Sistem.php on line 211.
+ 1 APPPATH/Controllers/Otpweb/Sistem.php(211): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Sistem->updateWaitingOrders()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()

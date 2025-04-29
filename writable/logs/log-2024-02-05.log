@@ -1,0 +1,22 @@
+CRITICAL - 2024-02-05 15:49:45 --> Call to undefined method App\Controllers\Otpweb\Orders::fail()
+in APPPATH/Controllers/Otpweb/Orders.php on line 114.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Orders->getServicesByCountry('16')
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otpweb\Orders))
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-05 15:50:03 --> mysqli_sql_exception: MySQL server has gone away in /home/mentari3/jasaotp.xosgames.com/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/mentari3/jasaotp.xosgames.com/system/Database/MySQLi/Connection.php(306): mysqli->query('UPDATE `ci_sess...', 0)
+#1 /home/mentari3/jasaotp.xosgames.com/system/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `ci_sess...')
+#2 /home/mentari3/jasaotp.xosgames.com/system/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `ci_sess...')
+#3 /home/mentari3/jasaotp.xosgames.com/system/Database/BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `ci_sess...', Array, false)
+#4 /home/mentari3/jasaotp.xosgames.com/system/Session/Handlers/DatabaseHandler.php(219): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->write('fb0b7426988e5f2...', '__ci_last_regen...')
+#6 [internal function]: session_write_close()
+#7 {main}
+CRITICAL - 2024-02-05 15:50:14 --> Call to undefined method App\Controllers\Otpweb\Orders::fail()
+in APPPATH/Controllers/Otpweb/Orders.php on line 114.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Orders->getServicesByCountry('4')
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otpweb\Orders))
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()

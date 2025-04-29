@@ -1,0 +1,45 @@
+CRITICAL - 2024-04-18 00:06:07 --> Undefined array key "value"
+in APPPATH/Controllers/Admin/Services.php on line 51.
+ 1 APPPATH/Controllers/Admin/Services.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "value"', '/storage/emulated/0/ksweb/tools/phpMyAdmin/jasaotp/app/Controllers/Admin/Services.php', 51)
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Admin\Services->getDataServices()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Services))
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 00:06:17 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Admin/Services.php on line 51.
+ 1 APPPATH/Controllers/Admin/Services.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', '/storage/emulated/0/ksweb/tools/phpMyAdmin/jasaotp/app/Controllers/Admin/Services.php', 51)
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Admin\Services->getDataServices()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Services))
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 00:15:27 --> Undefined array key "operator_name"
+in APPPATH/Views/admin/orders.php on line 44.
+ 1 APPPATH/Views/admin/orders.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "operator_name"', '/storage/emulated/0/ksweb/tools/phpMyAdmin/jasaotp/app/Views/admin/orders.php', 44)
+ 2 SYSTEMPATH/View/View.php(228): include('/storage/emulated/0/ksweb/tools/phpMyAdmin/jasaotp/app/Views/admin/orders.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1190): CodeIgniter\View\View->render('admin/orders', [], true)
+ 5 APPPATH/Controllers/Admin/Orders.php(45): view('admin/orders', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Admin\Orders->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Orders))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 00:31:24 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Admin/Services.php on line 51.
+ 1 APPPATH/Controllers/Admin/Services.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', '/storage/emulated/0/ksweb/tools/phpMyAdmin/jasaotp/app/Controllers/Admin/Services.php', 51)
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Admin\Services->getDataServices()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Services))
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 00:31:27 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Admin/Services.php on line 51.
+ 1 APPPATH/Controllers/Admin/Services.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', '/storage/emulated/0/ksweb/tools/phpMyAdmin/jasaotp/app/Controllers/Admin/Services.php', 51)
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Admin\Services->getDataServices()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Services))
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 00:36:19 --> Class "App\Models\otpweb\OrderModel" not found
+in APPPATH/Controllers/User.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(914): App\Controllers\User->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()

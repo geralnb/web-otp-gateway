@@ -1,0 +1,50 @@
+ERROR - 2024-02-24 13:10:04 --> mysqli_sql_exception: MySQL server has gone away in /home/mentari3/jasaotp.xosgames.com/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/mentari3/jasaotp.xosgames.com/system/Database/MySQLi/Connection.php(306): mysqli->query('UPDATE `ci_sess...', 0)
+#1 /home/mentari3/jasaotp.xosgames.com/system/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `ci_sess...')
+#2 /home/mentari3/jasaotp.xosgames.com/system/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `ci_sess...')
+#3 /home/mentari3/jasaotp.xosgames.com/system/Database/BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `ci_sess...', Array, false)
+#4 /home/mentari3/jasaotp.xosgames.com/system/Session/Handlers/DatabaseHandler.php(219): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->write('002f74afb877d9a...', '__ci_last_regen...')
+#6 [internal function]: session_write_close()
+#7 {main}
+CRITICAL - 2024-02-24 13:15:35 --> The action you requested is not allowed.
+in SYSTEMPATH/Security/Security.php on line 300.
+ 1 SYSTEMPATH/Security/Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH/Filters/CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH/Filters/Filters.php(186): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH/CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('auth/valid-login', 'before')
+ 5 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-24 13:15:52 --> The action you requested is not allowed.
+in SYSTEMPATH/Security/Security.php on line 300.
+ 1 SYSTEMPATH/Security/Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH/Filters/CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH/Filters/Filters.php(186): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH/CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('auth/valid-login', 'before')
+ 5 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-24 19:15:37 --> Call to undefined method App\Controllers\Otpweb\Orders::fail()
+in APPPATH/Controllers/Otpweb/Orders.php on line 114.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Orders->getServicesByCountry('468')
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otpweb\Orders))
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-24 19:15:37 --> Call to undefined method App\Controllers\Otpweb\Orders::fail()
+in APPPATH/Controllers/Otpweb/Orders.php on line 98.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Orders->getOperatorsByCountry('468')
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otpweb\Orders))
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-24 19:15:45 --> Call to undefined method App\Controllers\Otpweb\Orders::fail()
+in APPPATH/Controllers/Otpweb/Orders.php on line 114.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Orders->getServicesByCountry('468')
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otpweb\Orders))
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-24 19:15:45 --> Call to undefined method App\Controllers\Otpweb\Orders::fail()
+in APPPATH/Controllers/Otpweb/Orders.php on line 98.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Otpweb\Orders->getOperatorsByCountry('468')
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otpweb\Orders))
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
